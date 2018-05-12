@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25019'
     url: http://www.gutenberg.org/2009/agents/25019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21995#Philosophy-and-ReligionSix-Lectures-Delivered-at-Cambridge
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2007-07-04'
 gutenberg_type: Text
